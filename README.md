@@ -6,6 +6,8 @@
          |_|    |_|\__,_|\__, |_____|_| |_|_|    \__, |
                           __/ |                   __/ |
                          |___/                   |___/ 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aa9124df47d54202abe4db0ae2f14cec)](https://www.codacy.com/app/lorisazerty/PlugInPy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=the-new-sky/PlugInPy&amp;utm_campaign=Badge_Grade) [![Code Health](https://landscape.io/github/the-new-sky/PlugInPy/master/landscape.svg?style=flat)](https://landscape.io/github/the-new-sky/PlugInPy/master)
+
 The smallest plugin system in Python !
 
 PlugInPy allow you to add a simple Python plugin system to your favorite project. PlugInPy is a plug and play and powerful solution for our small projects. Like all **InPy** softwares, PlugInPy was designed to be very lightweight but extremely powerful.
