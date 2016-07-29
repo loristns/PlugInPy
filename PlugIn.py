@@ -4,6 +4,7 @@ import sys
 __author__ = "@the_new_sky"
 __license__ = "MIT"
 
+
 class LoadPlugins(object):
 
     def __init__(self, plugin_dir):
